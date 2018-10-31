@@ -15,10 +15,10 @@
 def speak_to_grandma(phrase)
   if phrase == phrase.downcase
     return "HUH?! SPEAK UP, SONNY!"
-  elsif phrase.upcase 
+  elsif phrase.upcase
     return phrase.upcase
-  end  
-end  
+  end
+end
 
 
  # def speak_to_grandma(phrase)
